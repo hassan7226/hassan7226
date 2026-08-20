@@ -1,10 +1,30 @@
-Hi 👋, I'm Hassan Arshad
+<div align="center">
 
-💻 MERN Stack Developer | React.js | Express.js | Node.js | MongoDB
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,24&height=200&section=header&text=Hassan%20Arshad&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20Full-Stack%20Web%20Developer&descAlignY=55&descAlign=50"/>
 
-I'm a MERN Stack Developer passionate about building modern, responsive, and scalable web applications. I enjoy creating complete web solutions, from interactive React frontends to secure and efficient Node.js backends.
+<!-- Animated Typing Effect -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=800&lines=Welcome+to+My+Digital+Space!+%F0%9F%91%8B;MERN+Stack+Developer;Building+Full-Stack+Web+Applications;React+%7C+Node.js+%7C+Express.js+%7C+MongoDB;Open+to+Internships+%26+Junior+Roles;Turning+Ideas+into+Working+Web+Applications" alt="Typing Animation" />
+</p>
 
-🚀 About Me
+<!-- Badges -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hassan7226&label=Profile%20Views&color=61DAFB&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/hassan7226?label=Followers&style=for-the-badge&color=24292F&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/badge/Focus-MERN%20Stack-61DAFB?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Open%20For-Internships-2C5364?style=for-the-badge" alt="Open For" />
+</p>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Me
+
+<img align="right" alt="Coding GIF" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+
 
 🎓 BS Computer Science Graduate
 💻 MERN Stack Developer
