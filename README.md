@@ -13,7 +13,6 @@
   <img src="https://komarev.com/ghpvc/?username=hassan7226&label=Profile%20Views&color=61DAFB&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/hassan7226?label=Followers&style=for-the-badge&color=24292F&logo=github" alt="Followers" />
   <img src="https://img.shields.io/badge/Focus-MERN%20Stack-61DAFB?style=for-the-badge" alt="Focus" />
-  <img src="https://img.shields.io/badge/Open%20For-Internships-2C5364?style=for-the-badge" alt="Open For" />
 </p>
 
 </div>
